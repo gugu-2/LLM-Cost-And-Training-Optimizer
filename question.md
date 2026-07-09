@@ -4,21 +4,20 @@
 
 ## Stop Paying for AI Features
 
-## 10 Chonkie (The Best Chunking Library)
+### 10 Chonkie (The Best Chunking Library)
 
-# 9 Marker (Turn PDFs into Clean Markdown)
+### 9 Marker (Turn PDFs into Clean Markdown)
 
-## 8 Langfuse (AI Observability & Costs)
+### 8 Langfuse (AI Observability & Costs)
 
-## 7 Qdrant (The Open Source Vector Database)
+### 7 Qdrant (The Open Source Vector Database)
 
-## 6 DSPy (Machine-Learned Prompt Engineering)
+### 6 DSPy (Machine-Learned Prompt Engineering)
 
-## 4 Crawl4AI (The Best Free Web Scraper)
+### 4 Crawl4AI (The Best Free Web Scraper)
 
-#3: Outlines (Guaranteed JSON Output)
+### 3 Outlines (Guaranteed JSON Output)
 
-#2: LiteLLM (The Universal AI Adapter)
+### 2 LiteLLM (The Universal AI Adapter)
 
-#1: Instructor (Type-Safe AI Validation)
- 
+### 1 Instructor (Type-Safe AI Validation)
