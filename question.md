@@ -6,7 +6,7 @@
 
 ## 10 Chonkie (The Best Chunking Library)
 
-## 9 Marker (Turn PDFs into Clean Markdown)
+# 9 Marker (Turn PDFs into Clean Markdown)
 
 ## 8 Langfuse (AI Observability & Costs)
 
